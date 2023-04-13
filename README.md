@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Higher or Lower Game</title>
 </head>
 
 <body>
+    <h1>Higher or Lower Game</h1>
     <p>This is a simple command-line game where the player has to guess which of two given options has more followers on
         social media. The game is based on comparing the follower counts of two celebrities or popular accounts. The
         player's goal is to make a streak of correct guesses. The game continues until the player makes a wrong guess.</p>
