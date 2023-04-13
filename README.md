@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
     <h1>Higher or Lower Game</h1>
     <p>This is a simple command-line game in Python where the player has to guess which of two given options has more followers on
         social media. The game is based on comparing the follower counts of two celebrities or popular accounts. The
@@ -60,6 +52,3 @@
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
-</body>
-
-</html>
