@@ -21,14 +21,4 @@ If you want to contribute to this project, please feel free to submit a pull req
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-            `;
-            let converter = new showdown.Converter();
-            let htmlContent = converter.makeHtml(markdownContent);
-            document.getElementById("markdown-content").innerHTML = htmlContent;
-        });
-    </script>
-</head>
-<body>
-    <div id="markdown-content"></div>
-</body>
-</html>
+           
