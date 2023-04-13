@@ -1,3 +1,4 @@
+# Higher or Lower Game - Python
 ## Game Structure
 
 The game consists of the following components:
